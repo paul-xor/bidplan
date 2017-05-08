@@ -1,0 +1,6 @@
+<%-- FOOTER INFORMATION HERE: --%>
+<%@ page pageEncoding="UTF-8" %>
+
+<footer class="container-fluid text-center">
+  <p>For internal use only. This a GSS UA trial project.</p>
+</footer>
